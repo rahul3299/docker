@@ -42,7 +42,7 @@
 	    
 	  </dependencies>
 	  <build>
-	    <finalName>docker-test</finalName>
+	    <finalName>docker-tes</finalName>
 	  </build>
 	</project>
  
